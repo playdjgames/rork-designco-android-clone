@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "DesignCo",
+      "path": "android-designco",
+      "framework": "kotlin"
+    }
+  ],
+  "$schema": "https://rork.com/schema/rork.json"
+}
